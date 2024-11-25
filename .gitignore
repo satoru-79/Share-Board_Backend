@@ -19,6 +19,13 @@ target/
 *.iml
 *.ipr
 
+# Eclipse用
+/.project
+/.classpath
+/.settings/
+/*.prefs
+
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -31,3 +38,16 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# 環境変数や秘密鍵
+*.env
+*.key
+*.pem
+*.crt
+*.der
+
+
+# 開発環境用の設定ファイル
+*.env
+application-*.yml
+application-*.properties
