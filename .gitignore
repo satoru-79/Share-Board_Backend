@@ -49,5 +49,5 @@ build/
 
 # 開発環境用の設定ファイル
 *.env
-application-*.yml
-application-*.properties
+application*.yml
+application*.properties
