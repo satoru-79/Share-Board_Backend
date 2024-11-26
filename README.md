@@ -1,6 +1,6 @@
 # Share-Board_Backend
 ## URL
-https://shareboard-26307.firebaseapp.com
+未デプロイ
 ### 概要
 　バスケットボールの作戦版をデジタル化し、作成したボードを共有・保存ができるサイトのバックエンド部分です。フロントエンドにはreactを使用しています
  
